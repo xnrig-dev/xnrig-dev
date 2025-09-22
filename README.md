@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/xnrig-dev/xnrig-dev](https://github.com/xnrig-dev/xnrig-dev)
 
-- 📝 I regularly write articles on [Currently not writing but planning to share learning notes soon](Currently not writing but planning to share learning notes soon)
+- 📝 Currently not writing notes but planning to share learning notes soon
 
 - 💬 Ask me about **My learning journey in coding Beginner tips for Python**
 
